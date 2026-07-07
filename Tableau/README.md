@@ -1,6 +1,6 @@
 # Tableau 
-This folder contains the Tableau dashboard used in the Super Store Sales Analysis project.
+This folder contains the interactive Tableau dashboard used in the Super Store Sales Analysis project.
 
 ## Files 
-- Super Store Dashboard (.twbx)
-- Dashboard Screenshot (.png) 
+- Interactive Tableau Dashboard (.twbx)
+- Dashboard Preview (.png)
