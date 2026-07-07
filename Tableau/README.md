@@ -4,3 +4,6 @@ This folder contains the interactive Tableau dashboard used in the Super Store S
 ## Files 
 - Interactive Tableau Dashboard (.twbx)
 - Dashboard Preview (.png)
+
+![Dashboard Preview]
+(Dashboard_Preview.png)
