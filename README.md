@@ -4,7 +4,7 @@
 This is an end-to-end Data Analysis project based on the Sample SuperStore dataset. The Project demonstrates the complete data analysis workflow, including data cleaning in Microsoft Excel, business analysis using SQL, and interactive dashboard creation in Tableau.
 
 ## Dashboard Preview 
-![Dashboard Preview] (Tableau/Dashboard_Preview.png)
+![Dashboard Preview](Tableau/Dashboard_Preview.png)
 
 ## Tools Used 
 - Microsoft Excel
