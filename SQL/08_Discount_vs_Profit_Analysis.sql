@@ -1,3 +1,5 @@
+-- Analyze Discount vs Profit
+
 SELECT 
   discount,
   AVG(profit) AS average_profit,
