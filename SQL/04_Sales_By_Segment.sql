@@ -1,3 +1,5 @@
+-- Calculate Sales by Segment
+
 SELECT
   segment
   SUM(sales) AS total_sales
