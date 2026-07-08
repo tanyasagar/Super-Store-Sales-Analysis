@@ -1,7 +1,7 @@
 -- Calculate Sales by Region
 
 SELECT
-  region
+  region,
   SUM(sales) AS total_sales
 FROM sales_data
 GROUP BY region
