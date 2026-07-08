@@ -1,3 +1,5 @@
+-- Calculate Sales by Region
+
 SELECT
   region
   SUM(sales) AS total_sales
