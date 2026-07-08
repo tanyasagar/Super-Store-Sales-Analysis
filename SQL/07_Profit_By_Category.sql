@@ -1,3 +1,5 @@
+-- Calculate Profit by Category
+
 SELECT
   category,
   SUM(profit) AS total_profit
