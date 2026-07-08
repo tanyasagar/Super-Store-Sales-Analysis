@@ -1,4 +1,5 @@
 -- Calculate Sales by Category
+
 SELECT
   category,
   SUM(sales) AS total_sales
